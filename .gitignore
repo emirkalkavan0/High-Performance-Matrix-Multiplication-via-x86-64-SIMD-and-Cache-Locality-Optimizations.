@@ -1,0 +1,9 @@
+# Derleme dosyaları ve klasörleri
+x64/
+Release/
+Debug/
+*.exe
+*.pdb
+*.obj
+*.tlog
+*.lastbuildstate
